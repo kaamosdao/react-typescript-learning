@@ -9,7 +9,7 @@ const App: React.FC = () => {
     <Router>
       <Navbar />
       <Switch>
-        <Route path="/tasks" component={TasksPage} />
+        <Route path="/" exact component={TasksPage} />
         <Route path="/about" component={AboutPage} />
       </Switch>
     </Router>

@@ -13,10 +13,10 @@ const AboutPage: React.FC = () => {
             Typescript. You can add tasks you want to accomplish, also
             distinguish completed tasks and delete any of them.
           </p>
-          <p>Hope tou enjoy it!</p>
+          <p>Hope you enjoy it!</p>
         </div>
       </div>
-      <button className="btn" onClick={() => history.push('/tasks')} >Back to tasks</button>
+      <button className="btn" onClick={() => history.push('/')} >Back to tasks</button>
     </div>
   );
 };
