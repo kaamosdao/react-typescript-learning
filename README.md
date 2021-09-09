@@ -3,7 +3,7 @@
 This app was made only for learning React with Typescript. 
 Use it to make your own Todo list. You can add or delete tasks, also distinguish all that were completed.
 
-[Depoyed on vercel](here will be url).
+[Click here, to check how it works! Depoyed on vercel.](https://react-typescript-learning.vercel.app/).
 
 ## Available Scripts
 
